@@ -37,6 +37,9 @@
     "react": ">=16"
   },
   "dependencies": {
+    "react-tooltip": "^5.25.0"
+  },
+  "devDependencies": {
     "@testing-library/react": "^14.1.2",
     "@types/jest": "^29.5.11",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
@@ -50,7 +53,6 @@
     "jest-canvas-mock": "^2.5.2",
     "jest-environment-jsdom": "^29.7.0",
     "prettier": "^3.1.0",
-    "react-tooltip": "^5.25.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.3.3"
   }
